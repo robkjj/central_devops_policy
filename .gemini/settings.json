@@ -1,0 +1,12 @@
+{
+  "context": {
+    "fileName": [
+      "naming_rules.md",
+      "networking_rules.md",
+      "security_rules.md"
+    ]
+  },
+  "fileFiltering": {
+    "respectGitIgnore": true
+  }
+}
